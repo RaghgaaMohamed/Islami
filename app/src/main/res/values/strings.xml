@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Islami</string>
+    <string-array name="tasbehat">
+        <item>سُبْحَانَ اللَّه</item>
+        <item>سُبْحَانَ اللَّهِ وَبِحَمْدِهِ</item>
+        <item>سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ</item>
+        <item>لا حَوْلَ وَلا قُوَّةَ إِلا بِاللَّهِ</item>
+        <item>سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحَانَ اللَّهِ الْعَظِيمِ </item>
+        <item>الْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ </item>
+        <item>أسْتَغفرُ اللَّه</item>
+        <item>لَا إِلَهَ إِلَّا اللَّهُ </item>
+        <item>الْلَّهُ أَكْبَرُ</item>
+        <item>سُبْحَانَ الْلَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا الْلَّهُ، وَالْلَّهُ أَكْبَرُ</item>
+        <item>لَا إلَه إلّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلُّ شَيْءِ قَدِيرِ</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
